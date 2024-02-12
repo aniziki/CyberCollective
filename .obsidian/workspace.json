@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools/Nmap.md",
+                "file": "Web Application/Server Side Template Injection (SSTI)/SSTI Attacks.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tools/Nmap.md",
+                "file": "Web Application/Server Side Template Injection (SSTI)/SSTI Attacks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tools/Nmap.md",
+                "file": "Web Application/Server Side Template Injection (SSTI)/SSTI Attacks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tools/Nmap.md"
+                "file": "Web Application/Server Side Template Injection (SSTI)/SSTI Attacks.md"
               }
             }
           }
@@ -146,10 +146,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2fe7cb3eb69b5d92",
+  "active": "c31530e34d80cbc8",
   "lastOpenFiles": [
-    "Tools/Proxychains.md",
+    "Web Application/Server Side Request Forgery (SSRF)/SSRF Attacks.md",
+    "Web Application/Server Side Template Injection (SSTI)/SSTI Attacks.md",
+    "Web Application/Cookies/Token Types.md",
+    "Web Application/Server Side Template Injection (SSTI)",
+    "Web Application/Cookies/JSON Web Token (JWT).md",
+    "Web Application/Cookies/Cookie Security Flags.md",
     "Tools/Nmap.md",
+    "Tools/Proxychains.md",
     "Tools/NetExec.md",
     "Tools/Impacket.md",
     "Tools/BurpSuite.md",
@@ -169,11 +175,6 @@
     "Tools/SShuttle.md",
     "Tools/Responder.md",
     "Tools/SQLmap.md",
-    "Web Application/SQL injection (SQLi)/Time-Based Blind SQL Injection.md",
-    "Web Application/XML External Entity Injection (XXE)/XXE Attacks.md",
-    "README.md",
-    "Tools/Tools TOC.md",
-    "Tools/MITM6.md",
     "Exploits/Exploit Chains",
     "Exploits",
     "Protocols",
@@ -182,7 +183,6 @@
     "Web Application/HTTP Desync Attacks",
     "Web Application/Cookies",
     "Web Application/XML External Entity Injection (XXE)",
-    "Cryptography",
-    "Cybersecurity Standards/OWASP/OWASP Top 10 API 2023"
+    "Cryptography"
   ]
 }
