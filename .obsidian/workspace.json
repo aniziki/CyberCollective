@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Protocols/Kerberos.md",
+                "file": "Protocols/UDP.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Protocols/Kerberos.md",
+                "file": "Protocols/UDP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Protocols/Kerberos.md",
+                "file": "Protocols/UDP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Protocols/Kerberos.md"
+                "file": "Protocols/UDP.md"
               }
             }
           }
@@ -148,6 +148,25 @@
   },
   "active": "c31530e34d80cbc8",
   "lastOpenFiles": [
+    "Protocols/TCP.md",
+    "Protocols/HTTP.md",
+    "Protocols/AD Authentication.md",
+    "Protocols/Bluetooth.md",
+    "Cryptography/Padding Oracle.md",
+    "Cybersecurity Standards/OWASP/OWASP Top 10 2021/A01 Broken Access Control.md",
+    "Cybersecurity Standards/OWASP/OWASP Top 10 2021/A02 Cryptographic Failures.md",
+    "Privilege Escalation/LOLBAS.md",
+    "Privilege Escalation/GTFOBins.md",
+    "Exploits/SigRED.md",
+    "Exploits/Log4Shell.md",
+    "Exploits/Java RMI.md",
+    "Exploits/BlueKeep.md",
+    "Web Application/Cookies/Token Types.md",
+    "Web Application/Cookies/JSON Web Token (JWT).md",
+    "Web Application/Cookies/Cookie Security Flags.md",
+    "Additional Links and Resources.md",
+    "README.md",
+    "Protocols/Kerberos.md",
     "Protocols/NTLM.md",
     "Tools/Responder.md",
     "Tools/Proxychains.md",
@@ -155,25 +174,6 @@
     "Web Application/SQL injection (SQLi)/Blind SQL Injection.md",
     "Web Application/SQL injection (SQLi)/SQL Injection Attacks.md",
     "Web Application/SQL injection (SQLi)/Time-Based Blind SQL Injection.md",
-    "Web Application/XML External Entity Injection (XXE)/XXE Attacks.md",
-    "Additional Links and Resources.md",
-    "Web Application/Cookies/JSON Web Token (JWT).md",
-    "Web Application/Server Side Template Injection (SSTI)/SSTI Attacks.md",
-    "Tools/Impacket.md",
-    "README.md",
-    "Tools/BurpSuite.md",
-    "Tools/NMAP.md",
-    "Tools/SShuttle.md",
-    "Tools/SQLmap.md",
-    "Tools/Tools TOC.md",
-    "Tools/MITM6.md",
-    "Tools/NetExec.md",
-    "Web Application/Serialization/Serialization.md",
-    "Web Application/Serialization/Deseralization.md",
-    "Web Application/Input Validation/Cheat Sheet.md",
-    "Web Application/Input Validation/File Upload Validation.md",
-    "Web Application/HTTP Desync Attacks/Request Smuggling.md",
-    "Web Application/File Upload/Zip Slip.md",
     "Exploits/Exploit Chains",
     "Exploits",
     "Protocols",
