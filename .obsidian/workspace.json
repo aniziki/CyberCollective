@@ -148,6 +148,7 @@
   },
   "active": "c31530e34d80cbc8",
   "lastOpenFiles": [
+    "Web Application/Server Side Template Injection (SSTI)/SSTI Attacks.md",
     "Web Application/SQL injection (SQLi)/Time-Based Blind SQL Injection.md",
     "Web Application/XML External Entity Injection (XXE)/XXE Attacks.md",
     "Tools/Impacket.md",
@@ -173,7 +174,6 @@
     "Web Application/Cross Site Request Forgery (CSRF)/CSRF Attacks.md",
     "nmap.md",
     "crackmapexec.md",
-    "Additional Links and Resources.md",
     "Exploits/Exploit Chains",
     "Exploits",
     "Protocols",
