@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Application/Cookies/Token Types.md",
+                "file": "Additional Links and Resources.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Application/Cookies/Token Types.md",
+                "file": "Additional Links and Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Application/Cookies/Token Types.md",
+                "file": "Additional Links and Resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Application/Cookies/Token Types.md"
+                "file": "Additional Links and Resources.md"
               }
             }
           }
@@ -161,8 +161,9 @@
   },
   "active": "c31530e34d80cbc8",
   "lastOpenFiles": [
-    "Web Application/Cookies/JSON Web Token (JWT).md",
+    "Web Application/Serialization/Serialization.md",
     "Web Application/Cookies/Token Types.md",
+    "Web Application/Cookies/JSON Web Token (JWT).md",
     "Web Application/Cookies/Cookie Security Flags.md",
     "Exploits/Log4Shell.md",
     "Additional Links and Resources.md",
@@ -175,7 +176,6 @@
     "Web Application/Input Validation/Cheat Sheet.md",
     "Web Application/Input Validation/File Upload Validation.md",
     "Web Application/Serialization/Deseralization.md",
-    "Web Application/Serialization/Serialization.md",
     "Web Application/Server Side Request Forgery (SSRF)/SSRF Attacks.md",
     "Web Application/SQL injection (SQLi)/Blind SQL Injection.md",
     "Web Application/SQL injection (SQLi)/Boolean-Based Blind SQL Injection.md",
