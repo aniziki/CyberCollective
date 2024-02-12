@@ -17,6 +17,8 @@ Payloads and bypasses for Web Applications:
 
 GraphQL:
 - [GraphQL-Voyager](https://github.com/graphql-kit/graphql-voyager)
-- [InQL](https://github.com/doyensec/inql) (BurpSuite Extension)
+- [InQL](https://github.com/doyensec/inql) ([[BurpSuite]] Extension)
 
-
+Bluetooth Exploitation:
+- [Bluffs](https://github.com/francozappa/bluffs)
+- 

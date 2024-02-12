@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Application/Server Side Template Injection (SSTI)/SSTI Attacks.md",
+                "file": "Tools/BurpSuite.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Application/Server Side Template Injection (SSTI)/SSTI Attacks.md",
+                "file": "Tools/BurpSuite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Application/Server Side Template Injection (SSTI)/SSTI Attacks.md",
+                "file": "Tools/BurpSuite.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Application/Server Side Template Injection (SSTI)/SSTI Attacks.md"
+                "file": "Tools/BurpSuite.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "c31530e34d80cbc8",
   "lastOpenFiles": [
-    "Web Application/Server Side Request Forgery (SSRF)/SSRF Attacks.md",
+    "Additional Links and Resources.md",
+    "Tools/BurpSuite.md",
     "Web Application/Server Side Template Injection (SSTI)/SSTI Attacks.md",
+    "Web Application/Server Side Request Forgery (SSRF)/SSRF Attacks.md",
     "Web Application/Cookies/Token Types.md",
     "Web Application/Server Side Template Injection (SSTI)",
     "Web Application/Cookies/JSON Web Token (JWT).md",
@@ -158,7 +160,6 @@
     "Tools/Proxychains.md",
     "Tools/NetExec.md",
     "Tools/Impacket.md",
-    "Tools/BurpSuite.md",
     "Cryptography/Padding Oracle.md",
     "Cybersecurity Standards/OWASP/OWASP Top 10 API 2023/API5 Broken Function Level Authorization.md",
     "Cybersecurity Standards/OWASP/OWASP Top 10 API 2023/API3 Broken Object Property Level Authorization.md",
@@ -174,7 +175,6 @@
     "Privilege Escalation/GTFOBins.md",
     "Tools/SShuttle.md",
     "Tools/Responder.md",
-    "Tools/SQLmap.md",
     "Exploits/Exploit Chains",
     "Exploits",
     "Protocols",
