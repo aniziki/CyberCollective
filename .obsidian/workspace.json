@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Protocols/UDP.md",
+                "file": "Web Application/Cookies/Token Types.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Protocols/UDP.md",
+                "file": "Web Application/Cookies/Token Types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Protocols/UDP.md",
+                "file": "Web Application/Cookies/Token Types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Protocols/UDP.md"
+                "file": "Web Application/Cookies/Token Types.md"
               }
             }
           }
@@ -148,6 +148,18 @@
   },
   "active": "c31530e34d80cbc8",
   "lastOpenFiles": [
+    "Web Application/Cookies/Cookie Security Flags.md",
+    "Web Application/SQL injection (SQLi)/Boolean-Based Blind SQL Injection.md",
+    "Web Application/SQL injection (SQLi)/Blind SQL Injection.md",
+    "Web Application/Server Side Request Forgery (SSRF)/SSRF Attacks.md",
+    "Web Application/Server Side Template Injection (SSTI)/SSTI Attacks.md",
+    "Web Application/SQL injection (SQLi)/SQL Injection Attacks.md",
+    "Web Application/SQL injection (SQLi)/Time-Based Blind SQL Injection.md",
+    "Additional Links and Resources.md",
+    "Web Application/HTTP Desync Attacks/Request Smuggling.md",
+    "Web Application/File Upload/Zip Slip.md",
+    "Web Application/File Upload/HexEditor.md",
+    "Protocols/UDP.md",
     "Protocols/TCP.md",
     "Protocols/HTTP.md",
     "Protocols/AD Authentication.md",
@@ -162,18 +174,6 @@
     "Exploits/Java RMI.md",
     "Exploits/BlueKeep.md",
     "Web Application/Cookies/Token Types.md",
-    "Web Application/Cookies/JSON Web Token (JWT).md",
-    "Web Application/Cookies/Cookie Security Flags.md",
-    "Additional Links and Resources.md",
-    "README.md",
-    "Protocols/Kerberos.md",
-    "Protocols/NTLM.md",
-    "Tools/Responder.md",
-    "Tools/Proxychains.md",
-    "Web Application/Server Side Request Forgery (SSRF)/SSRF Attacks.md",
-    "Web Application/SQL injection (SQLi)/Blind SQL Injection.md",
-    "Web Application/SQL injection (SQLi)/SQL Injection Attacks.md",
-    "Web Application/SQL injection (SQLi)/Time-Based Blind SQL Injection.md",
     "Exploits/Exploit Chains",
     "Exploits",
     "Protocols",

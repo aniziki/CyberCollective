@@ -46,15 +46,15 @@ The Archive endpoint lists all created posts in XML format. As we see in the bel
 
 Archive Endpoint
 
-Now that we found the vulnerable parameter, let’s try to read sensitive files like the `**/etc/passwd**` file _(the application is running on a Linux machine)_ with the open function payload.
+Now that we found the vulnerable parameter, let’s try to read sensitive files like the `/etc/passwd` file _(the application is running on a Linux machine)_ with the open function payload.
 
-**{{ get_flashed_messages.__globals__.__builtins__.open("/etc/passwd").read() }}**
+`{{ get_flashed_messages.__globals__.__builtins__.open("/etc/passwd").read() }}`
 
 ![](https://miro.medium.com/v2/resize:fit:1000/1*ehZ0DdnfI81fE4tP7esVpQ.png)
 
 Injecting the post title with reading payload
 
-After submitting the post, we go to the Archie endpoint, and voila, we see the content of the **_passwd_** file presented to us.
+After submitting the post, we go to the Archie endpoint, and voila, we see the content of the `passwd `file presented to us.
 
 ![](https://miro.medium.com/v2/resize:fit:1000/1*_wOKHpDiJ4RR1vxR1E7R0Q.png)
 
