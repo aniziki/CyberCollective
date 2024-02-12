@@ -1,5 +1,6 @@
 Educational Wikis
 - [HackTricks](https://book.hacktricks.xyz/) 
+- [PortSwigger](https://portswigger.net/web-security/all-materials)
 
 Web app for encryption, encoding, compression and data analysis:
 - [CyberChef](https://gchq.github.io/CyberChef/) 
