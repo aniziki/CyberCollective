@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools/BurpSuite.md",
+                "file": "Protocols/NTLM.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tools/BurpSuite.md",
+                "file": "Protocols/NTLM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tools/BurpSuite.md",
+                "file": "Protocols/NTLM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tools/BurpSuite.md"
+                "file": "Protocols/NTLM.md"
               }
             }
           }
@@ -148,33 +148,33 @@
   },
   "active": "c31530e34d80cbc8",
   "lastOpenFiles": [
+    "Protocols/Kerberos.md",
+    "Protocols/NTLM.md",
     "Additional Links and Resources.md",
+    "Privilege Escalation/GTFOBins.md",
+    "Cryptography/Padding Oracle.md",
+    "Cybersecurity Standards/OWASP/OWASP Top 10 2021/A02 Cryptographic Failures.md",
+    "Cybersecurity Standards/OWASP/OWASP Top 10 2021/A01 Broken Access Control.md",
+    "Exploits/Exploit Chains/NTLM Relaying.md",
+    "Exploits/Log4Shell.md",
+    "Exploits/Java RMI.md",
+    "Exploits/BlueKeep.md",
+    "Privilege Escalation/LOLBAS.md",
+    "Protocols/HTTP.md",
+    "Protocols/Bluetooth LE.md",
+    "Protocols/AD Authentication.md",
+    "Protocols/Bluetooth.md",
     "Tools/BurpSuite.md",
-    "Web Application/Server Side Template Injection (SSTI)/SSTI Attacks.md",
-    "Web Application/Server Side Request Forgery (SSRF)/SSRF Attacks.md",
-    "Web Application/Cookies/Token Types.md",
-    "Web Application/Server Side Template Injection (SSTI)",
-    "Web Application/Cookies/JSON Web Token (JWT).md",
-    "Web Application/Cookies/Cookie Security Flags.md",
+    "Tools/Impacket.md",
+    "Tools/NetExec.md",
     "Tools/Nmap.md",
     "Tools/Proxychains.md",
-    "Tools/NetExec.md",
-    "Tools/Impacket.md",
-    "Cryptography/Padding Oracle.md",
-    "Cybersecurity Standards/OWASP/OWASP Top 10 API 2023/API5 Broken Function Level Authorization.md",
-    "Cybersecurity Standards/OWASP/OWASP Top 10 API 2023/API3 Broken Object Property Level Authorization.md",
-    "Cybersecurity Standards/OWASP/OWASP Top 10 API 2023/API2 Broken Authentication.md",
-    "Cybersecurity Standards/OWASP/OWASP Top 10 API 2023/API1 Broken Object Level Authorization.md",
-    "Cybersecurity Standards/OWASP/OWASP Top 10 2021/A01 Broken Access Control.md",
-    "Cybersecurity Standards/OWASP/OWASP Top 10 2021/A02 Cryptographic Failures.md",
-    "Cybersecurity Standards/OWASP/OWASP Top 10 2021/A03 Injection.md",
-    "Cybersecurity Standards/OWASP/OWASP Top 10 2021/A05 Security Misconfiguration.md",
-    "Cybersecurity Standards/OWASP/OWASP Top 10 2021/A04 Insecure Design.md",
-    "Exploits/Exploit Chains/NTLM Relaying.md",
-    "Privilege Escalation/LOLBAS.md",
-    "Privilege Escalation/GTFOBins.md",
-    "Tools/SShuttle.md",
     "Tools/Responder.md",
+    "Tools/SQLmap.md",
+    "Tools/SShuttle.md",
+    "Web Application/SQL injection (SQLi)/SQL Injection Attacks.md",
+    "Web Application/SQL injection (SQLi)/Boolean-Based Blind SQL Injection.md",
+    "Web Application/Server Side Template Injection (SSTI)",
     "Exploits/Exploit Chains",
     "Exploits",
     "Protocols",
