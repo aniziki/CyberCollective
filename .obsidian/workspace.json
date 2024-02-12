@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c31530e34d80cbc8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web Application/Cookies/Token Types.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Web Application/Cookies/Token Types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Web Application/Cookies/Token Types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Web Application/Cookies/Token Types.md"
               }
             }
           }
@@ -146,8 +159,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "db984b0baa21f1e2",
+  "active": "c31530e34d80cbc8",
   "lastOpenFiles": [
+    "Web Application/Cookies/JSON Web Token (JWT).md",
+    "Web Application/Cookies/Token Types.md",
+    "Web Application/Cookies/Cookie Security Flags.md",
+    "Exploits/Log4Shell.md",
+    "Additional Links and Resources.md",
+    "README.md",
     "Privilege Escalation/LOLBAS.md",
     "CrackMapExec.md",
     "Exploit Chains/NTLM Relaying.md",
@@ -168,12 +187,6 @@
     "Web Application/Cryptography/Padding Oracle.md",
     "Web Application/File Upload/Zip Slip.md",
     "Web Application/File Upload/HexEditor.md",
-    "Web Application/File Upload/Cheat Sheet.md",
-    "Tools/BurpSuite.md",
-    "Tools/Impacket.md",
-    "README.md",
-    "Exploits/SigRED.md",
-    "Cybersecurity Standards/PCI DSS/Untitled.md",
     "Exploit Chains",
     "Exploits",
     "Protocols",
