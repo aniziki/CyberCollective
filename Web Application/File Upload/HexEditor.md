@@ -1,0 +1,1 @@
+Modify file with HexEditor with double extension (test.php.jpg) to exclude .jpg, allowing bypass of file upload restrictions for extension checks.
