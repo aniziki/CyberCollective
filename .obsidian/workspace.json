@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Additional Links and Resources.md",
+                "file": "Protocols/Kerberos.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Additional Links and Resources.md",
+                "file": "Protocols/Kerberos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Additional Links and Resources.md",
+                "file": "Protocols/Kerberos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Additional Links and Resources.md"
+                "file": "Protocols/Kerberos.md"
               }
             }
           }
@@ -148,15 +148,21 @@
   },
   "active": "c31530e34d80cbc8",
   "lastOpenFiles": [
-    "Web Application/Server Side Template Injection (SSTI)/SSTI Attacks.md",
+    "Protocols/NTLM.md",
+    "Tools/Responder.md",
+    "Tools/Proxychains.md",
+    "Web Application/Server Side Request Forgery (SSRF)/SSRF Attacks.md",
+    "Web Application/SQL injection (SQLi)/Blind SQL Injection.md",
+    "Web Application/SQL injection (SQLi)/SQL Injection Attacks.md",
     "Web Application/SQL injection (SQLi)/Time-Based Blind SQL Injection.md",
     "Web Application/XML External Entity Injection (XXE)/XXE Attacks.md",
+    "Additional Links and Resources.md",
+    "Web Application/Cookies/JSON Web Token (JWT).md",
+    "Web Application/Server Side Template Injection (SSTI)/SSTI Attacks.md",
     "Tools/Impacket.md",
     "README.md",
     "Tools/BurpSuite.md",
     "Tools/NMAP.md",
-    "Tools/Proxychains.md",
-    "Tools/Responder.md",
     "Tools/SShuttle.md",
     "Tools/SQLmap.md",
     "Tools/Tools TOC.md",
@@ -168,12 +174,6 @@
     "Web Application/Input Validation/File Upload Validation.md",
     "Web Application/HTTP Desync Attacks/Request Smuggling.md",
     "Web Application/File Upload/Zip Slip.md",
-    "Web Application/File Upload/HexEditor.md",
-    "Web Application/File Upload/Cheat Sheet.md",
-    "Web Application/Cross Site Scripting (XSS)/XSS.md",
-    "Web Application/Cross Site Request Forgery (CSRF)/CSRF Attacks.md",
-    "nmap.md",
-    "crackmapexec.md",
     "Exploits/Exploit Chains",
     "Exploits",
     "Protocols",
