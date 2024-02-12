@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Application/SQL injection (SQLi)/Time-Based Blind SQL Injection.md",
+                "file": "Tools/Nmap.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Application/SQL injection (SQLi)/Time-Based Blind SQL Injection.md",
+                "file": "Tools/Nmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Application/SQL injection (SQLi)/Time-Based Blind SQL Injection.md",
+                "file": "Tools/Nmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Application/SQL injection (SQLi)/Time-Based Blind SQL Injection.md"
+                "file": "Tools/Nmap.md"
               }
             }
           }
@@ -146,34 +146,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c31530e34d80cbc8",
+  "active": "2fe7cb3eb69b5d92",
   "lastOpenFiles": [
-    "Web Application/XML External Entity Injection (XXE)/XXE Attacks.md",
-    "Tools/Impacket.md",
-    "README.md",
-    "Tools/BurpSuite.md",
-    "Tools/NMAP.md",
     "Tools/Proxychains.md",
-    "Tools/Responder.md",
+    "Tools/Nmap.md",
+    "Tools/NetExec.md",
+    "Tools/Impacket.md",
+    "Tools/BurpSuite.md",
+    "Cryptography/Padding Oracle.md",
+    "Cybersecurity Standards/OWASP/OWASP Top 10 API 2023/API5 Broken Function Level Authorization.md",
+    "Cybersecurity Standards/OWASP/OWASP Top 10 API 2023/API3 Broken Object Property Level Authorization.md",
+    "Cybersecurity Standards/OWASP/OWASP Top 10 API 2023/API2 Broken Authentication.md",
+    "Cybersecurity Standards/OWASP/OWASP Top 10 API 2023/API1 Broken Object Level Authorization.md",
+    "Cybersecurity Standards/OWASP/OWASP Top 10 2021/A01 Broken Access Control.md",
+    "Cybersecurity Standards/OWASP/OWASP Top 10 2021/A02 Cryptographic Failures.md",
+    "Cybersecurity Standards/OWASP/OWASP Top 10 2021/A03 Injection.md",
+    "Cybersecurity Standards/OWASP/OWASP Top 10 2021/A05 Security Misconfiguration.md",
+    "Cybersecurity Standards/OWASP/OWASP Top 10 2021/A04 Insecure Design.md",
+    "Exploits/Exploit Chains/NTLM Relaying.md",
+    "Privilege Escalation/LOLBAS.md",
+    "Privilege Escalation/GTFOBins.md",
     "Tools/SShuttle.md",
+    "Tools/Responder.md",
     "Tools/SQLmap.md",
+    "Web Application/SQL injection (SQLi)/Time-Based Blind SQL Injection.md",
+    "Web Application/XML External Entity Injection (XXE)/XXE Attacks.md",
+    "README.md",
     "Tools/Tools TOC.md",
     "Tools/MITM6.md",
-    "Tools/NetExec.md",
-    "Web Application/Serialization/Serialization.md",
-    "Web Application/Serialization/Deseralization.md",
-    "Web Application/Input Validation/Cheat Sheet.md",
-    "Web Application/Input Validation/File Upload Validation.md",
-    "Web Application/HTTP Desync Attacks/Request Smuggling.md",
-    "Web Application/File Upload/Zip Slip.md",
-    "Web Application/File Upload/HexEditor.md",
-    "Web Application/File Upload/Cheat Sheet.md",
-    "Web Application/Cross Site Scripting (XSS)/XSS.md",
-    "Web Application/Cross Site Request Forgery (CSRF)/CSRF Attacks.md",
-    "nmap.md",
-    "crackmapexec.md",
-    "Additional Links and Resources.md",
-    "Protocols/IPv6.md",
     "Exploits/Exploit Chains",
     "Exploits",
     "Protocols",
