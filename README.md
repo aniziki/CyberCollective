@@ -1,5 +1,5 @@
 # CyberCollective
-A collection of cybersecurity tools, techniques, and standards delivered via Obsidian
+A collective of cybersecurity tools, techniques, and standards delivered via Obsidian
 
 
 
