@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools/NetExec (cme).md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tools/NetExec (cme).md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tools/NetExec (cme).md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tools/NetExec (cme).md"
+                "file": "README.md"
               }
             }
           }
@@ -148,13 +148,16 @@
   },
   "active": "db984b0baa21f1e2",
   "lastOpenFiles": [
+    "Exploits/Exploit TOC.md",
+    "Exploits/SigRED.md",
+    "Cybersecurity Standards/PCI DSS/Untitled.md",
+    "Tools/NetExec (cme).md",
     "README.md",
     "Tools/SQLmap.md",
     "Tools/Responder.md",
     "Tools/BurpSuite.md",
     "Tools/MITM6.md",
     "Tools/Impacket.md",
-    "Tools/NetExec (cme).md",
     "Protocols/UDP.md",
     "Protocols/TCP.md",
     "Protocols/SMB.md",
@@ -170,10 +173,7 @@
     "Protocols/AD Authentication.md",
     "Exploit Chains/NTLM Relaying.md",
     "Exploits/BlueKeep.md",
-    "Exploits/Exploit TOC.md",
     "Exploits/Java RMI.md",
-    "Exploits/SigRED.md",
-    "Exploits/Log4Shell.md",
     "Exploit Chains",
     "Exploits",
     "Protocols",
